@@ -58,7 +58,7 @@ def jawaban():
 
 def tebakan(y):
 
-   hasil = input(f"Apakah hasilnya adalah... [Tekan Enter]")
+   hasil = input(f"Hasilnya adalah... [Tekan Enter]")
    if hasil == "":
        print(y)
        if y == 1:
