@@ -36,26 +36,6 @@ def jawaban():
     print("\n")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 def tebakan(y):
 
    hasil = input(f"Hasilnya adalah... [Tekan Enter]")
